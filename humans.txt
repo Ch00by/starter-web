@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	Ron Fisher	rondovfisher@gmail.com	@ch00by
+	
 # THANKS
 
     <name>
