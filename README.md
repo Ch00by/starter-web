@@ -19,6 +19,8 @@ This is an extra note.
 
 ## How to Contribute
 
+Please fork this repository then issue Pull Requets for review.
+
 ### Copyright
 
 2014 Git.Training
