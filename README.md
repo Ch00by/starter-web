@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple porject showing how Git and Github work together. 
+This is a simple porject showing how Git and Github work together. Adding a line for rebasing example.
 
 ## Introduction
 
