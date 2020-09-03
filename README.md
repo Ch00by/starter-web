@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 <<<<<<< Local Changes
-This is a simple porject showing how Git and Github work together. Adding a line for rebasing example. 
+This is a simple porject showing how Git and Github work together. Adding a line for rebasing example. Updating emergency fix after our stash.
+
 =======
 This is a simple porject showing how Git and Github work together. Adding a line for rebasing example, then more changes from myfeature branch too.
 >>>>>>> External Changes
